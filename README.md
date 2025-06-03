@@ -50,10 +50,10 @@
 ### Сборка
 
 ```bash
-make
+~ make
 ```
 ### Запуск
 ```bash
-./build/app
+~ ./build/app
 ```
 ---
